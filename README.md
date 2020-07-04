@@ -1,2 +1,2 @@
-# My-Personal-Site
-My Personal Site
+# Resume
+Resume
